@@ -10,6 +10,7 @@ namespace RD.Web.Controllers
     {
         public IActionResult Index()
         {
+            // TEST
             return View();
         }
 
