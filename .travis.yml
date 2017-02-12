@@ -1,5 +1,4 @@
 language: csharp
-solution: RD.Web.sln
 sudo: required
 dist: trusty
 mono: none
