@@ -4,4 +4,5 @@ dist: trusty
 mono: none
 dotnet: 1.0.0-preview2-1-003177
 script:
-    - dotnet restore src\RD.Web\RD.Web.csproj
+    - cd src\RD
+    - dotnet restore
